@@ -1,4 +1,4 @@
-#vesta-index-template
+# vesta-index-template
 Другая версия стандартной заглушки для новых доменов в панели [VestaCP](https://vestacp.com/).
 
 Фичи:
